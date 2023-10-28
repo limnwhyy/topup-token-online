@@ -1,7 +1,7 @@
 {
   "name": "token-listrik-online",
   "version": "0.1.0",
-  "homepage": "https://limnwhyy.github.io/token-listrik-online/",
+  "homepage": "https://limnwhyy.github.io/topup-token-online/",
   "private": true,
   "dependencies": {
     "@pyramid/configure": "^0.3.5",
