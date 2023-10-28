@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/token-listrik-online/static/css/main.ad2869e2.css",
+    "main.js": "/token-listrik-online/static/js/main.3a47bd92.js",
+    "static/media/Logo_PLN.png": "/token-listrik-online/static/media/Logo_PLN.e5415d07d94569e65f9e.png",
+    "index.html": "/token-listrik-online/index.html",
+    "main.ad2869e2.css.map": "/token-listrik-online/static/css/main.ad2869e2.css.map",
+    "main.3a47bd92.js.map": "/token-listrik-online/static/js/main.3a47bd92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2869e2.css",
+    "static/js/main.3a47bd92.js"
+  ]
+}
